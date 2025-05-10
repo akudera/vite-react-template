@@ -1,6 +1,6 @@
 # React + Vite + SASS Template
 
-This template provides a minimal and modern setup to start building React applications using Vite. It includes support for SASS, HMR (Hot Module Replacement), and basic ESLint rules for code quality.
+This template provides a minimal and modern setup to start building **React** applications using **Vite**. It includes support for **SASS**, **HMR (Hot Module Replacement)**, and basic **ESLint** rules for code quality.
 
 ## 📦 Getting Started
 
@@ -8,6 +8,8 @@ You can clone this template and install dependencies using your preferred packag
 
 ```
 npx degit https://github.com/akudera/vite-react-template your-project-name
+
+cd your-project-name
 ```
 
 ```
